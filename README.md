@@ -20,6 +20,10 @@ Check out the create-react-app documentation [here](https://github.com/facebook/
 
 Click [here](https://reactjs.org/docs/hello-world.html) to view the ReactJS documentation
 
+## What we built
+
+A multi component tic-tac-toe game that stores moves as state and allows time travel between those moves.
+
 ## Tutorial
 
 You can find the full ReactJS tutorial [here](https://reactjs.org/tutorial/tutorial.html)
