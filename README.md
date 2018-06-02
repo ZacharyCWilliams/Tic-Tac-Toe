@@ -15,9 +15,7 @@ Click [here](https://reactjs.org/docs/hello-world.html) to view the ReactJS docu
 
 You can find the full ReactJS tutorial [here](https://reactjs.org/tutorial/tutorial.html)
 
-link
-
-Here's a breakdown of the topics we covered:
+### Here's a breakdown of the topics we covered:
 
 + [Passing Data Through Props](https://reactjs.org/tutorial/tutorial.html#passing-data-through-props)
 + [Interactive Components](https://reactjs.org/tutorial/tutorial.html#an-interactive-component)
