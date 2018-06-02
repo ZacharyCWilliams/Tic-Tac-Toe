@@ -5,7 +5,9 @@ ReactJS Official Tutorial
 
 React is a declarative, component-based JavaScript library for building user interfaces.
 
-## Utilize create-react-app
+## create-react-app
+
+```create-react-app``` is the best way to start building a new React single page application. It sets up your development environment so that you can use the latest JavaScript features, provides a nice developer experience, and optimizes your app for production. You’ll need to have Node >= 6 on your machine.
 
 Check out the create-react-app documentation [here](https://github.com/facebook/create-react-app)
 
