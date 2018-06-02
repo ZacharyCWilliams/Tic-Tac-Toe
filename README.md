@@ -5,7 +5,14 @@ ReactJS Official Tutorial
 
 React is a declarative, component-based JavaScript library for building user interfaces.
 
-## Install
+## Utilize create-react-app
+
+Check out the create-react-app documentation [here](https://github.com/facebook/create-react-app)
+
+## npm Install
+
+```npm init```
+```npm install --save react react-dom```
 
 ## Documentation
 
