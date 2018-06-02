@@ -24,6 +24,12 @@ Click [here](https://reactjs.org/docs/hello-world.html) to view the ReactJS docu
 
 A multi component tic-tac-toe game that stores moves as state and allows time travel between those moves.
 
+## Run project
+
+1. Download & extract repo
+2. ```cd``` into folder
+3. run ```npm-build```
+
 ## Tutorial
 
 You can find the full ReactJS tutorial [here](https://reactjs.org/tutorial/tutorial.html)
